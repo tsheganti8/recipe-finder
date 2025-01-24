@@ -1,0 +1,25 @@
+body{
+  background-color: #FFCCE1;
+}
+
+.main{
+  background-color: #FFCCE1;
+  margin: 0;
+  font-family: Bradley Hand, cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  align-items: center;
+  margin-left: 30%;
+ 
+}
+
+.recipes-list{
+  background-color: #E0D7FF;
+  display: inline-flex;
+  font-size: 20px;
+  padding-right: 20px;
+}
+
+ul{
+  list-style: none;
+}
